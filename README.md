@@ -4,7 +4,7 @@ Este repositorio contiene una aplicación de clima que se puede buscar por ciuda
 
 ## Uso
 
-1.  Clone el repositorio haciendo `git clone `
+1.  Clone el repositorio haciendo `git clone https://github.com/GinoL221/aplicacion-clima-javascript.git`
 2.  Abra el proyecto en su editor de código
 3.  Haciendo click derecho ejecutar Live Server para abrir el proyecto en el navegador
 
